@@ -5,6 +5,6 @@ public class FixMe{
         System.out.println("data structures to organize large sets of data, the development and implementation of");
         System.out.println("algorithms to process data and discover new information, the analysis of potential");
         System.out.println("solutions, and the ethical and social implications of computing systems. The course");
-        System.out.println("emphasizes object-oriented programming and design using the Java programming language!");
+        System.out.println("emphasizes object-oriented programming and design using the Java programming language.");
     }
 }
